@@ -1,8 +1,8 @@
 {
-  "signed": "eyJlbmFibGVkIjp0cnVlLCJtaW5fdmVyc2lvbiI6MCwibWF4X2RheXMiOjMwLCJ0cyI6MTc5MzgxNjE1MX0=",
-  "sig": "MEUCIQDO5EgCpyyo9XnjXsS/M4GvlYJbnyL8lCqlvfGbfmNR3wIgQTX08xwZ+8J8umsbnxb3VVicHd0rD5Kofmkd6zYMWE8=",
+  "signed": "eyJlbmFibGVkIjp0cnVlLCJtaW5fdmVyc2lvbiI6MCwibWF4X2RheXMiOjMwLCJ0cyI6MTc5MzgyMDE1Nn0=",
+  "sig": "MEUCIQDLcj72bfAKBsrBOvQJ97Vn9KIisqk4P4xUCVZMJX1DsgIgRZiL3xsPkZtZq+OKbJ2j51qvVNm9W1jwyrihHNmnVeE=",
   "message": "",
-  "latest_version": 15,
+  "latest_version": 16,
   "apk_url": "https://github.com/beicinha/tabela-visual/releases/latest",
   "apk_file": "https://github.com/beicinha/tabela-visual/releases/latest/download/TabelaVisual.apk",
   "sponsor": "",
