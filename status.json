@@ -1,13 +1,13 @@
 {
-  "signed": "eyJlbmFibGVkIjp0cnVlLCJtaW5fdmVyc2lvbiI6MCwibWF4X2RheXMiOjMwLCJ0cyI6MTc5MzgxMjQzOH0=",
-  "sig": "MEUCIQDJYql8jC5MlosRADQbUk3wdVvai1A5AVhQopFpJLXGDQIgdYLWOMzNc9kQLp54qXFL8vfoxigjfQJJc9GlUqMAnck=",
+  "signed": "eyJlbmFibGVkIjp0cnVlLCJtaW5fdmVyc2lvbiI6MCwibWF4X2RheXMiOjMwLCJ0cyI6MTc5MzgxNjE1MX0=",
+  "sig": "MEUCIQDO5EgCpyyo9XnjXsS/M4GvlYJbnyL8lCqlvfGbfmNR3wIgQTX08xwZ+8J8umsbnxb3VVicHd0rD5Kofmkd6zYMWE8=",
   "message": "",
-  "latest_version": 13,
+  "latest_version": 15,
   "apk_url": "https://github.com/beicinha/tabela-visual/releases/latest",
   "apk_file": "https://github.com/beicinha/tabela-visual/releases/latest/download/TabelaVisual.apk",
-  "sponsor": "Lentes Clareza",
-  "sponsor_label": "Patrocínio",
-  "sponsor_image": "https://raw.githubusercontent.com/beicinha/tabela-visual/main/patrocinio-teste.png",
-  "sponsor_style": "banner",
+  "sponsor": "",
+  "sponsor_label": "Com o apoio de",
+  "sponsor_image": "",
+  "sponsor_style": "",
   "count_url": ""
 }
