@@ -1,6 +1,13 @@
 {
-  "enabled": true,
+  "signed": "eyJlbmFibGVkIjp0cnVlLCJtaW5fdmVyc2lvbiI6MCwibWF4X2RheXMiOjMwLCJ0cyI6MTc5MzgwNjcxOX0=",
+  "sig": "MEUCIAoRI4PGKHwdFfI1991CNCod+fcAAFHJcsSTMMDMHVmYAiEA27rcuurFP9xfQ7jCr+S+240fuiopesPqpGjNxSrhvsc=",
   "message": "",
-  "latest_version": 8,
-  "apk_url": "https://github.com/beicinha/tabela-visual/releases/latest"
+  "latest_version": 13,
+  "apk_url": "https://github.com/beicinha/tabela-visual/releases/latest",
+  "apk_file": "https://github.com/beicinha/tabela-visual/releases/latest/download/TabelaVisual.apk",
+  "sponsor": "",
+  "sponsor_label": "Patrocínio",
+  "sponsor_image": "",
+  "sponsor_style": "",
+  "count_url": ""
 }
